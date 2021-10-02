@@ -1,13 +1,14 @@
 ### Hi there, I'm Daniel- 👋
 
 
-[![Twitter Follow](https://twitter.com/DanielOdiase1)](https://twitter.com/DanielOdiase1)
+[![Twitter Follow]<i class="fab fa-twitter" style="color:#1DA1F2;">Twitter</i>(https://twitter.com/DanielOdiase1)](https://twitter.com/DanielOdiase1)
 
 ## I'm a Mechanical Engineer and coding is my Passion!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new languages
+<br/>
 So About Me ...
 A jack of multiple trades engineer. I love seeing my designs come to life both in the material world and in the tech world . I hold a bachelors in mechanical engineering and a passion in software development/computer science.Im kind of a nerd i know. Ive been blessed with the opportunity of working as a 3d modelling designer in which i was able to bring a lot of company ideas /designs to life through the entire product life cycle. Ive also worked on passion projects (contractor)as well , some of which include developing and running ecommerce websites, my Personal journal Blog(20's and counting) as well as other really cool and interesting projects as seen in my portfolio. In my free time i love to create quality connections with friends , learn new languages, workout, play basketball and learn more about myself and life.
 
@@ -36,7 +37,7 @@ A jack of multiple trades engineer. I love seeing my designs come to life both i
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+
 
 <br />
 <br />
