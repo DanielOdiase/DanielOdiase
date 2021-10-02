@@ -17,7 +17,7 @@ A jack of multiple trades engineer. I love seeing my designs come to life both i
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -41,13 +41,6 @@ A jack of multiple trades engineer. I love seeing my designs come to life both i
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.DanielOdiase.vercel.app/api?username=DanielOdiase&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [twitter]: https://twitter.com/DanielOdiase1
