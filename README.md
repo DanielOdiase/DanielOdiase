@@ -1,8 +1,6 @@
 ### Hi there, I'm Daniel- 👋
 
 
-[Follow]<i class="fab fa-twitter" style="color:#1DA1F2;"></i>(https://twitter.com/DanielOdiase1)]
-
 ## I'm a Mechanical Engineer and coding is my Passion!!
 
 - 🌱 I’m currently learning everything 🤣
