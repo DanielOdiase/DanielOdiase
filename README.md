@@ -3,7 +3,7 @@
 
 ## I'm a Mechanical Engineer and coding is my Passion!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently studying for the AWS solutions Architect
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new languages
 <br/>
