@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel- 👋
 
 
-## I'm a Mechanical Engineer and coding is my Passion!!
+## I'm a Solutions Engineer and coding is my Passion!!
 
 - 🌱 I’m currently studying for the AWS Solutions Architect Professional certification
 - 🥅 2021 Goals: Contribute more to Open Source projects
