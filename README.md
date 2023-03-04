@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to learn new languages
 <br/>
 So About Me ...
-A jack of multiple trades engineer. I love seeing my designs come to life both in the material world and in the tech world . I hold a bachelors in mechanical engineering and a passion in software development/computer science. Ive been blessed with the opportunity of working as a 3d modelling designer in which i was able to bring a lot of company ideas /designs to life through the entire product life cycle. Ive also worked on passion projects as well , some of which include developing and running ecommerce websites,developing web-apps and my Personal journal Blog(20's and counting) as well as other really cool and interesting projects as seen in my portfolio. In my free time i love to create quality connections with friends , learn new languages, workout, play basketball and learn more about myself and life.
+Solutions engineer @Vulog Technologies !!
 
 ### Connect with me:
 
